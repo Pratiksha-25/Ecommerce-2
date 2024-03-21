@@ -2,17 +2,16 @@
 
 **This is a simple ecommerce website template named RedStore. It features a clean and modern design suitable for an online store selling various products.**
 
-![image] 
 
 ## Table of Contents:-
 
-Description
-Features
-Usage
-File Structure
-Credits
-License
-Description
+Description<br>
+Features<br>
+Usage<br>
+File Structure<br>
+Credits<br>
+License<br>
+Description<br>
 
 RedStore is an HTML-based ecommerce website template designed for online businesses. It includes several sections such as a header with navigation, featured categories, featured and latest products, testimonials, and a footer with useful links and social media integration. The template is responsive, ensuring compatibility across various devices.
 
