@@ -2,6 +2,8 @@
 
 **This is a simple ecommerce website template named RedStore. It features a clean and modern design suitable for an online store selling various products.**
 
+![image] 
+
 ## Table of Contents:-
 
 Description
