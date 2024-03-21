@@ -23,7 +23,8 @@ Easy navigation<br>
 Featured products display<br>
 Testimonials section<br>
 Download app section<br>
-Usage<br>
+
+## Usage:-
 
 **index.html:** Main HTML file containing the structure of the website.<br>
 **style.css:** CSS file for styling the website.<br>
